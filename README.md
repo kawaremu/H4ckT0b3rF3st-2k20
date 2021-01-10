@@ -1,4 +1,4 @@
-## OpenMindsClub Joins Hacktoberfest 2020! ##
+## OpenMindsClub Joins MLH 2021! ##
 
 ![Event logo](https://www.pixenli.com/image/sbWyjrII)
 
